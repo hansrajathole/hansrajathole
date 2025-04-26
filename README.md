@@ -3,7 +3,7 @@
 Front-end Developer | Full Stack Developer | Computer Science Engineer 
 <img align="right" width="380" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHUyOXg2cDYyYXJieXg3ODB1YzR3bmd1dGM5YzhrNHFnc2ZnOWp5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Here's my [portfolio]()                                              
+- 🔭 Here's my [portfolio](https://hansrajatholeportfolio.netlify.app/)                                              
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with Placements in FAANG
@@ -11,7 +11,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 - 😄 Pronouns: TechFusionist
 - 📫 How to reach me :
   
-  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/1d1f4317-f7fc-4813-a7d4-fc2f71da525e"/>](https://www.linkedin.com/in/hansrajathole/)
+  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/1d1f4317-f7fc-4813-a7d4-fc2f71da525e"/>](https://www.linkedin.com/in/hansraj-athole-10257426b/)
   [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/525a0e9f-4d9d-4018-9c26-dc3af6e2563c"/>](mailto:atholehansraj@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)
 
 
